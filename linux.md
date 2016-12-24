@@ -31,3 +31,16 @@ cp 复制
     -a/pdr 完全复制
 
 mv 剪切(原文件与目标命令在同一目录时为改名)
+
+touch 新增
+
+
+
+vi命令:
+    i 切换至插入模式
+    esc 命令行模式
+    : last line mode
+        w filename 将文件以指定filename保存
+        wq 存盘并退出
+        q! 不存盘强制退出
+        
