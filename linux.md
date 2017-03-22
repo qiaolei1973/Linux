@@ -43,4 +43,10 @@ vi命令:
         w filename 将文件以指定filename保存
         wq 存盘并退出
         q! 不存盘强制退出
-        
+zip 压缩:
+    zip -r filename package.zip
+    
+#连接linux
+    ssh username@ip
+    #传送文件(文件夹)
+    scp -r ./filedir qiaolei@ip:/home/qiaolei/filedir
