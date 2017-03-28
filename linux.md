@@ -50,3 +50,4 @@ zip 压缩:
     ssh username@ip
     #传送文件(文件夹)
     scp -r ./filedir qiaolei@ip:/home/qiaolei/filedir
+
